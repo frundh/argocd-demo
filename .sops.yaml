@@ -1,0 +1,3 @@
+creation_rules:
+  - path_regex: secrets(\.\w+)*\.ya?ml$
+    azure_keyvault: https://kv-frundh-demo.vault.azure.net/keys/key-sops/56b7451830be4337864bbbbaa5ff6f19
