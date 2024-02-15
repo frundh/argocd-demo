@@ -9,3 +9,6 @@ ports:
 
 ingress:
   enabled: true
+
+envVars:
+  COMMON_GREETING: "Hello!"

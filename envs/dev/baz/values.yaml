@@ -1,3 +1,2 @@
 envVars:
-  - name: "DEMO_GREETING"
-    value: "Hello from the DEV environment!"
+  DEMO_GREETING: "Hello from the DEV environment!"
